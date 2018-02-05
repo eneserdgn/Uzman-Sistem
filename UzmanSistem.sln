@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UzmanSistem", "UzmanSistem\UzmanSistem.csproj", "{03FCCAE5-F6E3-4886-B99D-83904297DAAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03FCCAE5-F6E3-4886-B99D-83904297DAAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03FCCAE5-F6E3-4886-B99D-83904297DAAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03FCCAE5-F6E3-4886-B99D-83904297DAAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03FCCAE5-F6E3-4886-B99D-83904297DAAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8003BBAA-C4A7-4BA8-85B8-EEF9369069A0}
+	EndGlobalSection
+EndGlobal

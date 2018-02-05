@@ -1,0 +1,13 @@
+C:\Users\enese\Desktop\DERSLER\Yönetim Bilişim Sistemleri\UzmanSistem\UzmanSistem\bin\Debug\UzmanSistem.exe.config
+C:\Users\enese\Desktop\DERSLER\Yönetim Bilişim Sistemleri\UzmanSistem\UzmanSistem\bin\Debug\UzmanSistem.exe
+C:\Users\enese\Desktop\DERSLER\Yönetim Bilişim Sistemleri\UzmanSistem\UzmanSistem\bin\Debug\UzmanSistem.pdb
+C:\Users\enese\Desktop\DERSLER\Yönetim Bilişim Sistemleri\UzmanSistem\UzmanSistem\obj\Debug\UzmanSistem.csprojResolveAssemblyReference.cache
+C:\Users\enese\Desktop\DERSLER\Yönetim Bilişim Sistemleri\UzmanSistem\UzmanSistem\obj\Debug\UzmanSistem.Form1.resources
+C:\Users\enese\Desktop\DERSLER\Yönetim Bilişim Sistemleri\UzmanSistem\UzmanSistem\obj\Debug\UzmanSistem.Properties.Resources.resources
+C:\Users\enese\Desktop\DERSLER\Yönetim Bilişim Sistemleri\UzmanSistem\UzmanSistem\obj\Debug\UzmanSistem.csproj.GenerateResource.Cache
+C:\Users\enese\Desktop\DERSLER\Yönetim Bilişim Sistemleri\UzmanSistem\UzmanSistem\obj\Debug\UzmanSistem.csproj.CoreCompileInputs.cache
+C:\Users\enese\Desktop\DERSLER\Yönetim Bilişim Sistemleri\UzmanSistem\UzmanSistem\obj\Debug\UzmanSistem.exe
+C:\Users\enese\Desktop\DERSLER\Yönetim Bilişim Sistemleri\UzmanSistem\UzmanSistem\obj\Debug\UzmanSistem.pdb
+C:\Users\enese\Desktop\DERSLER\Yönetim Bilişim Sistemleri\UzmanSistem\UzmanSistem\obj\Debug\UzmanSistem.Form2.resources
+C:\Users\enese\Desktop\DERSLER\Yönetim Bilişim Sistemleri\UzmanSistem\UzmanSistem\obj\Debug\UzmanSistem.Form3.resources
+C:\Users\enese\Desktop\DERSLER\Yönetim Bilişim Sistemleri\UzmanSistem\UzmanSistem\obj\Debug\UzmanSistem.Form4.resources
